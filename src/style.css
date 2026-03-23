@@ -27,7 +27,8 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 64px;
+    min-height: 64px;
+    height: auto;
     width: 100%;
     border-bottom: var(--border);
     font-weight: bold;
