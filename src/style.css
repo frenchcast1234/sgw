@@ -36,7 +36,13 @@ header {
     background-color: #fff;
     position: sticky;
     top: 0;
+    text-align: center;
+    word-break: break-word;
     z-index: 100;
+}
+
+header h1, header {
+    font-size: clamp(18px, 4vw, 28px);
 }
 
 /* Research section */
