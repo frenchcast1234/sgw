@@ -10,5 +10,6 @@ export const data = [
     { name: "Cricket", url: "https://www.google.com/search?q=cricket%20doodle", tags: ["cricket"] },
     { name: "Football", url: "https://doodles.google/doodle/soccer-2012/", tags: ["football", "soccer"] },
     { name: "Basketball", url: "https://doodles.google/doodle/basketball-2012/", tags: ["basket", "basketball"] },
-    { name: "Garden Gnome", url: "https://www.google.com/search?q=garden%20gnome", tags: ["garden gnomes", "garden", "gnomes"] }
+    { name: "Garden Gnome", url: "https://www.google.com/search?q=garden%20gnome", tags: ["garden gnomes", "garden", "gnomes"] },
+    { name: "Tuiles colorées", url: "https://www.google.com/search?q=tuiles+colorees+google", tags: ["tuiles colorées", "tuile", "colorées"] }
 ];
