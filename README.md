@@ -1,5 +1,19 @@
 # Secret Games Wiki
 
-The Wiki of the Google's Games
+The Wiki of Google's Games.
 
-[frenchcast1234.github.io/sgw](https://frenchcast1234.github.io/sgw)
+## What is this?
+
+Secret Games Wiki is a community-driven encyclopedia about Google's hidden and secret games.
+
+## Website
+
+Visit the wiki at: [frenchcast1234.github.io/sgw](https://frenchcast1234.github.io/sgw)
+
+## Contributing
+
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
+
+## License
+
+This project is licensed under the MIT License.
