@@ -10,10 +10,6 @@ Secret Games Wiki is a community-driven encyclopedia about Google's hidden and s
 
 Visit the wiki at: [frenchcast1234.github.io/sgw](https://frenchcast1234.github.io/sgw)
 
-## Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes.
-
 ## License
 
 This project is licensed under the MIT License.
