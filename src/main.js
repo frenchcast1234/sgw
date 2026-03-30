@@ -11,7 +11,7 @@ function create_element(name, url) {
 
     let a = document.createElement('a');
     a.href = url;
-    a.textContent = url;
+    a.textContent = "Play here";
     a.target = "_blank";  // Ouvre dans nouvel onglet
 
     temp.appendChild(title);
