@@ -1,10 +1,10 @@
 # Secret Games Wiki
 
-The Wiki of Google's Games.
+The Wiki of Secret Games.
 
 ## What is this?
 
-Secret Games Wiki is a community-driven encyclopedia about Google's hidden and secret games.
+Secret Games Wiki is a community-driven encyclopedia about hidden and secret games.
 
 ## Website
 
