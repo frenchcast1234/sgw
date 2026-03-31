@@ -12,5 +12,8 @@ export const data = [
     { name: "Basketball", url: "https://doodles.google/doodle/basketball-2012/", tags: ["basket", "basketball"] },
     { name: "Garden Gnome", url: "https://www.google.com/search?q=garden%20gnome", tags: ["garden gnomes", "garden", "gnomes"] },
     { name: "Tuiles colorées", url: "https://www.google.com/search?q=tuiles+colorees+google", tags: ["tuiles colorées", "tuile", "colorées"] },
-    { name: "Emoji Kitchen", url: "https://www.google.com/search?q=emoji+kitchen", tags: ["emoji kitchen", "emoji", "kitchen"] }
+    { name: "Emoji Kitchen", url: "https://www.google.com/search?q=emoji+kitchen", tags: ["emoji kitchen", "emoji", "kitchen"] },
+
+    { name: "Mafia (Werewolf)", url: "https://www.google.com/search?q=mafia+werewolf+party+game", tags: ["mafia", "werewolf", "social deduction", "party"] },
+    { name: "Suspect Game (Python)", url: "https://github.com/youngcoder45/Suspect-Game-In-Py", tags: ["suspect", "detective", "mystery", "investigation", "interrogation"] }
 ];
