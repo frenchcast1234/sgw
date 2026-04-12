@@ -15,5 +15,10 @@ export const data = [
     { name: "Emoji Kitchen", url: "https://www.google.com/search?q=emoji+kitchen", tags: ["emoji kitchen", "emoji", "kitchen"] },
 
     { name: "Mafia (Werewolf)", url: "https://www.google.com/search?q=mafia+werewolf+party+game", tags: ["mafia", "werewolf", "social deduction", "party"] },
-    { name: "Suspect Game (Python)", url: "https://github.com/youngcoder45/Suspect-Game-In-Py", tags: ["suspect", "detective", "mystery", "investigation", "interrogation"] }
+    { name: "Suspect Game (Python)", url: "https://github.com/youngcoder45/Suspect-Game-In-Py", tags: ["suspect", "detective", "mystery", "investigation", "interrogation"] },
+    { name: "Solitaire", url: "https://www.google.com/search?q=solitaire", tags: ["solitaire", "cards"] },
+    { name: "Spinning Wheel", url: "https://www.google.com/search?q=spinner", tags: ["spinner", "wheel"] },
+    { name: "Roll a Dice", url: "https://www.google.com/search?q=roll+a+dice", tags: ["dice", "roll"] },
+    { name: "Flip a Coin", url: "https://www.google.com/search?q=flip+a+coin", tags: ["coin", "flip"] },
+    { name: "Dreidel", url: "https://www.google.com/search?q=dreidel", tags: ["dreidel", "spin", "hanukkah"] }
 ];
